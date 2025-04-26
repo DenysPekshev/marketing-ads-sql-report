@@ -23,3 +23,5 @@ Marketing Ads SQL Report
 - Використання LAG() для обчислення змін метрик
 
 - Обрахунок відсоткових змін CTR, CPM, ROMI
+
+Файл Pekshev_marketing_report.sql містить копію запиту.
