@@ -1,27 +1,27 @@
 Marketing Ads SQL Report
 
-Цей проєкт реалізовано в межах навчальної програми для практики роботи з базами даних і побудови звітів для маркетингової аналітики.
+This project is implemented as part of a training program to practice working with databases and building reports for marketing analytics.
 
-Мета: створити зведений місячний звіт за даними Facebook Ads та Google Ads, включно з розрахунком основних метрик ефективності (CTR, CPC, CPM, ROMI) та аналізом їхньої динаміки.
+Objective: Create a consolidated monthly report based on data from Facebook Ads and Google Ads, including the calculation of key performance metrics (CTR, CPC, CPM, ROMI) and analysis of their dynamics.
 
-Основні завдання:
+Main tasks:
 
-- Об'єднати дані з Facebook і Google реклами в єдиний датасет.
+Combine data from Facebook and Google Ads into a single dataset.
 
-- Розрахувати ключові маркетингові метрики.
+Calculate key marketing metrics.
 
-- Порахувати приріст/падіння показників у порівнянні з попереднім місяцем (Month-over-Month).
+Calculate the growth/decline of metrics compared to the previous month (Month-over-Month).
 
-- Підготувати дані для подальшої візуалізації у BI-системах.
+Prepare data for further visualization in BI systems.
 
-Структура запиту:
+Query structure:
 
-- Об'єднання даних з різних джерел (Facebook Ads та Google Ads)
+Combine data from different sources (Facebook Ads and Google Ads).
 
-- Створення зведених місячних показників
+Create consolidated monthly metrics.
 
-- Використання LAG() для обчислення змін метрик
+Use LAG() to calculate changes in metrics.
 
-- Обрахунок відсоткових змін CTR, CPM, ROMI
+Calculate percentage changes in CTR, CPM, ROMI.
 
-Файл Pekshev_marketing_report.sql містить копію запиту.
+The file Pekshev_marketing_report.sql contains a copy of the query.
