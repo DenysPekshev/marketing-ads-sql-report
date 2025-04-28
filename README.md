@@ -12,16 +12,17 @@ Main tasks:
 
 - Calculate the growth/decline of metrics compared to the previous month (Month-over-Month).
 
--Prepare data for further visualization in BI systems.
+- Prepare data for further visualization in BI systems.
 
--Query structure:
+Query structure:
 
--Combine data from different sources (Facebook Ads and Google Ads).
+- Combine data from different sources (Facebook Ads and Google Ads).
 
--Create consolidated monthly metrics.
+- Create consolidated monthly metrics.
 
--Use LAG() to calculate changes in metrics.
+- Use LAG() to calculate changes in metrics.
 
--Calculate percentage changes in CTR, CPM, ROMI.
+- Calculate percentage changes in CTR, CPM, ROMI.
 
--The file Pekshev_marketing_report.sql contains a copy of the query.
+
+The file Pekshev_marketing_report.sql contains a copy of the query.
